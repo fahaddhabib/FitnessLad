@@ -1,4 +1,4 @@
-![Fitness Lad Icon](icon.jpg)
+![Fitness Lad Icon](https://github.com/fahaddhabib/FitnessLad/blob/main/assets/icon.jpg)
 
 # Fitness Lad: Home Workouts for Men - No Equipment
 
