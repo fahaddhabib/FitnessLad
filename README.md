@@ -1,6 +1,6 @@
-![Fitness Lad Icon](https://github.com/fahaddhabib/FitnessLad/blob/main/assets/icon.jpg)
-
 # Fitness Lad: Home Workouts for Men - No Equipment
+
+![Fitness Lad Icon](https://github.com/fahaddhabib/FitnessLad/blob/main/assets/icon.jpg)
 
 Fitness Lad provides daily home workout routines without any equipment.
 
@@ -34,7 +34,7 @@ The answer is YES! Tada. Just follow Your virtual fitness buddy which leads you 
 
 ## Screenshots
 
-![Screenshot 1](bd1.jpg) ![Screenshot 2](bd2.jpg) ![Screenshot 3](bd3.png) ![Screenshot 4](bd4.png) ![Screenshot 5](bd5.png) ![Screenshot 6](bd6.png) ![Screenshot 7](bd7.png) ![Screenshot 8](bd8.png) ![Screenshot 9](bd9.png) ![Screenshot 10](bd10.png) ![Screenshot 11](bd11.png) ![Screenshot 12](bd12.png)
+![Screenshot 1](https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd%201.jpg) ![Screenshot 2](bd2.jpg) ![Screenshot 3](bd3.png) ![Screenshot 4](bd4.png) ![Screenshot 5](bd5.png) ![Screenshot 6](bd6.png) ![Screenshot 7](bd7.png) ![Screenshot 8](bd8.png) ![Screenshot 9](bd9.png) ![Screenshot 10](bd10.png) ![Screenshot 11](bd11.png) ![Screenshot 12](bd12.png)
 
 Every Exercise is supported by Gif content for User ease:
 
