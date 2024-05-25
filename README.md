@@ -1,4 +1,4 @@
-![Fitness Lad Icon](icon.png)
+![Fitness Lad Icon](icon.jpg)
 
 # Fitness Lad: Home Workouts for Men - No Equipment
 
