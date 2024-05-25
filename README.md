@@ -34,7 +34,20 @@ The answer is YES! Tada. Just follow Your virtual fitness buddy which leads you 
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd%201.jpg) ![Screenshot 2](bd2.jpg) ![Screenshot 3](bd3.png) ![Screenshot 4](bd4.png) ![Screenshot 5](bd5.png) ![Screenshot 6](bd6.png) ![Screenshot 7](bd7.png) ![Screenshot 8](bd8.png) ![Screenshot 9](bd9.png) ![Screenshot 10](bd10.png) ![Screenshot 11](bd11.png) ![Screenshot 12](bd12.png)
+<div style="display:flex;">
+    <img src="https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd%201.jpg" alt="Screenshot 1" style="flex:1; margin-right:5px;">
+    <img src="https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd2.jpg" alt="Screenshot 2" style="flex:1; margin-right:5px;">
+    <img src="https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd3.jpg" alt="Screenshot 3" style="flex:1; margin-right:5px;">
+    <img src="https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd4.jpg" alt="Screenshot 4" style="flex:1; margin-right:5px;">
+    <img src="https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd5.jpg" alt="Screenshot 5" style="flex:1; margin-right:5px;">
+    <img src="https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd6.jpg" alt="Screenshot 6" style="flex:1; margin-right:5px;">
+    <img src="https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd7.jpg" alt="Screenshot 7" style="flex:1; margin-right:5px;">
+    <img src="https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd8.jpg" alt="Screenshot 8" style="flex:1; margin-right:5px;">
+    <img src="https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd9.jpg" alt="Screenshot 9" style="flex:1; margin-right:5px;">
+    <img src="https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd10.jpg" alt="Screenshot 10" style="flex:1; margin-right:5px;">
+    <img src="https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd11.jpg" alt="Screenshot 11" style="flex:1; margin-right:5px;">
+    <img src="https://github.com/fahaddhabib/FitnessLad/blob/main/assets/bd12.jpg" alt="Screenshot 12" style="flex:1;">
+</div>
 
 Every Exercise is supported by Gif content for User ease:
 
