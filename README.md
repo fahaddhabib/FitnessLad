@@ -22,6 +22,42 @@ Fitness Lad is a comprehensive bodybuilding and home workout app designed to fac
 - Calculate your Body Mass Index Through BMI Calculator
 - You can pin your favorite blog, diet, and workout routine.
 
+# Technologies Used
+
+## Android App Development
+
+### MVVM Architecture
+- **Usage:** Utilizes the Model-View-ViewModel (MVVM) architecture pattern for a robust and scalable app structure.
+
+### Retrofit
+- **Usage:** Integrates Retrofit library for making HTTP requests to RESTful APIs.
+
+### Firebase
+- **Usage:** Implements Firebase platform for various backend services such as user authentication, real-time database, and cloud storage.
+
+### HTTP and RESTful APIs
+- **Usage:** Communicates with remote servers using HTTP protocols and RESTful APIs to fetch workout videos, exercise data, and other dynamic content.
+
+### Glide
+- **Usage:** Integrates Glide library for efficient loading and caching of images and GIFs within the app.
+
+### Room Persistence Library
+- **Usage:** Utilizes Room Persistence Library for local data storage and offline caching of user preferences, favorite workouts, and app settings.
+  
+### Material Design Components
+- **Usage:** Adheres to Material Design guidelines and incorporates Material Design components for a visually appealing and intuitive user interface.
+  
+### Kotlin Programming Language
+- **Usage:** Developed using Kotlin programming language for Android app development.
+
+## Other Technologies
+
+### Firebase Analytics
+- **Usage:** Integrates Firebase Analytics for tracking user interactions, app usage metrics, and performance analytics.
+
+### Crashlytics
+- **Usage:** Implements Crashlytics for real-time crash reporting and error monitoring.
+
 ## Screenshots
 
 <div style="display: flex; justify-content: center;">
